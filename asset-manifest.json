@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starwarweb/static/css/main.2ee44be3.chunk.css",
+    "main.js": "/starwarweb/static/js/main.a5a2374f.chunk.js",
+    "main.js.map": "/starwarweb/static/js/main.a5a2374f.chunk.js.map",
+    "runtime-main.js": "/starwarweb/static/js/runtime-main.4ce9af42.js",
+    "runtime-main.js.map": "/starwarweb/static/js/runtime-main.4ce9af42.js.map",
+    "static/js/2.8a86f67e.chunk.js": "/starwarweb/static/js/2.8a86f67e.chunk.js",
+    "static/js/2.8a86f67e.chunk.js.map": "/starwarweb/static/js/2.8a86f67e.chunk.js.map",
+    "index.html": "/starwarweb/index.html",
+    "precache-manifest.96897320953a34878b4cd40a98a6167f.js": "/starwarweb/precache-manifest.96897320953a34878b4cd40a98a6167f.js",
+    "service-worker.js": "/starwarweb/service-worker.js",
+    "static/css/main.2ee44be3.chunk.css.map": "/starwarweb/static/css/main.2ee44be3.chunk.css.map",
+    "static/js/2.8a86f67e.chunk.js.LICENSE.txt": "/starwarweb/static/js/2.8a86f67e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ce9af42.js",
+    "static/js/2.8a86f67e.chunk.js",
+    "static/css/main.2ee44be3.chunk.css",
+    "static/js/main.a5a2374f.chunk.js"
+  ]
+}
